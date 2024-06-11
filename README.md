@@ -38,7 +38,7 @@ Running on a Device or Emulator:
 ## Screenshot
 
 <div style="text-align: center;">
-  <img src="https://github.com/bahaseline/To-doApp/assets/117291953/f9d3b42f-d88f-4234-abb1-f5b1f404ee78" alt="Screenshot" style="max-width: 60%;">
+  <img src="https://github.com/bahaseline/To-doApp/assets/117291953/f9d3b42f-d88f-4234-abb1-f5b1f404ee78" alt="Screenshot" style="width: 50%; max-width: 100%;">
 </div>
 
 
